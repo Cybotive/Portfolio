@@ -1,0 +1,560 @@
+Mono path[0] = 'H:/Users/Joshua/Desktop/Unity 5/Terrain Test/Rock Throwing_Data/Managed'
+Mono path[1] = 'H:/Users/Joshua/Desktop/Unity 5/Terrain Test/Rock Throwing_Data/Mono'
+Mono config path = 'H:/Users/Joshua/Desktop/Unity 5/Terrain Test/Rock Throwing_Data/Mono/etc'
+PlayerConnection initialized from H:/Users/Joshua/Desktop/Unity 5/Terrain Test/Rock Throwing_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55423
+Multi-casting "[IP] 146.187.80.30 [Port] 55423 [Flags] 3 [Guid] 3485335591 [EditorId] 3625647073 [Version] 1048832 [Id] WindowsPlayer(Windows10HDD) [Debug] 1" to [225.0.0.222:54997]...
+Waiting for connection from host on [146.187.80.30:55423]...
+Timed out. Continuing without host connection.
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56591
+PlayerConnection already initialized - listening to [146.187.80.30:55423]
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
+    Vendor:   NVIDIA
+    VRAM:     4053 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: H:\Users\Joshua\Desktop\Unity 5\Terrain Test\Rock Throwing_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading H:\Users\Joshua\Desktop\Unity 5\Terrain Test\Rock Throwing_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: H:\Users\Joshua\Desktop\Unity 5\Terrain Test\Rock Throwing_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading H:\Users\Joshua\Desktop\Unity 5\Terrain Test\Rock Throwing_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: H:\Users\Joshua\Desktop\Unity 5\Terrain Test\Rock Throwing_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading H:\Users\Joshua\Desktop\Unity 5\Terrain Test\Rock Throwing_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: H:\Users\Joshua\Desktop\Unity 5\Terrain Test\Rock Throwing_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading H:\Users\Joshua\Desktop\Unity 5\Terrain Test\Rock Throwing_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: H:\Users\Joshua\Desktop\Unity 5\Terrain Test\Rock Throwing_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading H:\Users\Joshua\Desktop\Unity 5\Terrain Test\Rock Throwing_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.074 seconds
+Platform assembly: H:\Users\Joshua\Desktop\Unity 5\Terrain Test\Rock Throwing_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: H:\Users\Joshua\Desktop\Unity 5\Terrain Test\Rock Throwing_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.239966 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: e4 -> priority: 1 
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+
+rock0subApplied(Clone)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+throwRock:Update() (at C:\Users\JoshL\OneDrive\Unity 5\Terrain Test\Assets\Scripts\throwRock.cs:32)
+ 
+(Filename: C:/Users/JoshL/OneDrive/Unity 5/Terrain Test/Assets/Scripts/throwRock.cs Line: 32)
+

@@ -1,0 +1,17 @@
+https://answers.unity.com/questions/1172025/raycast2d-is-hitting-itself-even-when-set-to-ignor.html
+
+My solution was to turn off the collider before the raycast and turn it on at the end:
+
+     for (int i = 0; i < sectorCount; i++) 
+     {
+     locations [i].GetComponent<CircleCollider2D>().enabled = false;
+                     
+     RaycastHit2D hit = Physics2D.Raycast (locations [i].transform.position, Vector2.up);
+     .
+     .
+     stuff
+     .
+     .
+     locations [i].GetComponent<CircleCollider2D>().enabled = true;
+     }
+

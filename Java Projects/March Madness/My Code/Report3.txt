@@ -1,0 +1,66 @@
+Report #3: Top 64 Division 1 NCAA Teams of 2016-17 Listed by Ascending Overall Efficiency
+
+Alabama A&M-2/27 Overall Efficiency:61.89300000000001
+St. Francis (NY)-4/27 Overall Efficiency:82.60300000000001
+North Carolina A&T-3/29 Overall Efficiency:96.632
+Presbyterian-5/25 Overall Efficiency:102.20400000000001
+UC-Santa Barbara-6/22 Overall Efficiency:121.338
+Central Connecticut State-6/23 Overall Efficiency:126.06299999999999
+Chicago State-6/26 Overall Efficiency:130.91066666666669
+Longwood-6/24 Overall Efficiency:134.53333333333333
+VMI-6/24 Overall Efficiency:137.13333333333333
+Maine-7/25 Overall Efficiency:151.03699999999998
+South Florida-7/23 Overall Efficiency:151.0616666666667
+Oregon State-5/27 Overall Efficiency:157.638
+Florida International-7/24 Overall Efficiency:164.076
+American-8/22 Overall Efficiency:164.205
+Drake-7/24 Overall Efficiency:166.336
+Idaho State-5/26 Overall Efficiency:174.202
+UC-Riverside-8/21 Overall Efficiency:174.34
+Western Carolina-9/23 Overall Efficiency:184.055
+Southern Mississippi-9/22 Overall Efficiency:188.6933333333333
+Cornell-8/21 Overall Efficiency:190.80800000000002
+Western Illinois-8/20 Overall Efficiency:191.81066666666663
+Lafayette-9/21 Overall Efficiency:199.5
+Louisiana-Monroe-9/24 Overall Efficiency:200.018
+Hartford-9/23 Overall Efficiency:200.07200000000003
+Oral Roberts-8/22 Overall Efficiency:200.428
+Cleveland State-9/22 Overall Efficiency:201.35666666666665
+SIU Edwardsville-6/24 Overall Efficiency:204.4
+Pepperdine-9/22 Overall Efficiency:206.86666666666667
+Tulane-6/25 Overall Efficiency:211.363
+Arkansas-Pine Bluff-7/25 Overall Efficiency:216.4815
+Boston College-9/23 Overall Efficiency:217.3066666666667
+Drexel-9/23 Overall Efficiency:224.51900000000003
+Delaware State-10/22 Overall Efficiency:228.07266666666666
+Washington-9/22 Overall Efficiency:228.90666666666667
+Southern Utah-6/27 Overall Efficiency:232.869
+Florida Atlantic-10/20 Overall Efficiency:233.988
+Dartmouth-7/20 Overall Efficiency:234.654
+Bethune-Cookman-10/22 Overall Efficiency:237.35833333333335
+Mississippi Valley State-7/25 Overall Efficiency:244.7325
+Milwaukee-11/24 Overall Efficiency:245.65266666666668
+McNeese State-7/22 Overall Efficiency:246.1815
+Cal Poly-11/20 Overall Efficiency:246.36999999999998
+Louisiana State-10/21 Overall Efficiency:249.679
+Florida A&M-7/23 Overall Efficiency:250.8245
+Quinnipiac-10/21 Overall Efficiency:255.9236666666667
+South Carolina State-11/20 Overall Efficiency:256.42833333333334
+Indiana State-11/20 Overall Efficiency:256.78333333333336
+Columbia-11/16 Overall Efficiency:263.1933333333333
+Alabama State-8/23 Overall Efficiency:263.418
+Coppin State-8/24 Overall Efficiency:264.875
+NJIT-11/20 Overall Efficiency:266.60499999999996
+Binghamton-12/20 Overall Efficiency:271.875
+Missouri-8/24 Overall Efficiency:276.625
+North Texas-8/22 Overall Efficiency:277.0125
+Marist-8/24 Overall Efficiency:277.875
+Nebraska-12/19 Overall Efficiency:279.67199999999997
+Fordham-13/19 Overall Efficiency:282.8466666666667
+Delaware-13/20 Overall Efficiency:283.286
+Stetson-11/21 Overall Efficiency:283.3413333333333
+Massachusetts-Lowell-11/20 Overall Efficiency:287.4316666666666
+Bryant-12/20 Overall Efficiency:296.625
+Pennsylvania-13/15 Overall Efficiency:298.19733333333335
+Central Arkansas-8/24 Overall Efficiency:299.375
+Jackson State-14/18 Overall Efficiency:301.63599999999997

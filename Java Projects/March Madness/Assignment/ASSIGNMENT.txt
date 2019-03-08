@@ -1,0 +1,55 @@
+You will read the following file and create an array of corresponding Team objects:
+
+ncaa_bb_2016_2017.csv
+
+You will use that array to produce the following reports:
+
+Report #1: List top 20 teams by offensive efficiency
+Report #2: List top 20 teams by defensive efficiency
+Report #3: List top 64 teams by Overall efficiency
+Report #4: List all teams alphabetically and display each teams overall efficiency.
+The API for this project must be followed.  
+
+Project API
+
+You may use your ArrayUtils & FileUtil library from previous assignments.
+
+This assignment is worth 50 extra credit points!
+
+Fields in order:
+
+Rank 
+School 
+G - Total Games
+W - Games Won
+L - Games Lost
+W-L% - Win/Loss Percentage
+SRS - Simple Rating System
+SOS - Strength of Schedule
+W - Conference Wins
+L - Conference Losses
+W - Home Wins
+L - Home Losses
+W - Away Wins
+L - Away Losses
+Tm - Total Points Scored
+Opp - Total Opponent Points Scored
+blank
+MP - Minutes Played
+FG - Field Goals Made
+FGA - Field Goals Attempted
+FG% - Field Goal Percentage
+3P - 3 Point Field Goals Made
+3PA - 3 Point Field Goals Attempted
+3P% - 3 Point Field Goal Percentage
+FT - Free Throws
+FTA - Free Throw Attempts
+FT% - Free Throw Percentage
+ORB - Offensive Rebounds
+TRB - Total Rebounds
+AST - Assists
+STL - Steals
+BLK - Blocks
+TOV - Turnovers
+PF - Personal Fouls
+
