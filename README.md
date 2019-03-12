@@ -1,3 +1,3 @@
 ## Joshua Lini
 ### Portfolio
-This is where I will put my programming projects to show the skills I have developed
+This is a compilation of my personal programming projects and Bachelor's in Computer Science classwork that show off my programming capabilities. I am currently enrolled in said program.
