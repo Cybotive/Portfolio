@@ -1,3 +1,2 @@
 # C# Projects
-I have quite a bit of C# coding experience since I last updated my portfolio and will soon add examples. 
-One code snippet I plan to add is the server code I am writing for my Senior Project's mobile application.
+Here you will find a Networking section for my senior project team's CHECKmates application. This section contains standalone client/server code written by me with some sections such as packet structuring classes written with the help of a teammate.
