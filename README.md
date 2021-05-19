@@ -1,6 +1,6 @@
 ## Joshua Lini
 ### Portfolio
-This is a compilation of some of my personal programming projects and Bachelor of Computer Science coursework that show some of my programming capabilities but more so what I've been exposed to while attending university. I am currently in my last quarter of said program.
+This is a compilation of some of my personal programming projects and Bachelor of Computer Science coursework that shows in part what I've been exposed to while attending university. I am currently in my last quarter of said program.
 
 Check out the "C# Projects" section of this repo for my more recent work.
 
