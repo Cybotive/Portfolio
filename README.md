@@ -1,6 +1,8 @@
 ## Joshua Lini
 ### Portfolio
-This is a compilation of some of my personal programming projects and Bachelor of Computer Science coursework that shows in part what I've been exposed to while studying computer science. Both projects in "Unity Projects" were personal projects not assigned by my program.
+This is a compilation of some of my public personal projects and Bachelor of Computer Science coursework that gives a glimpse into how I've developed. 
+
+Both projects in "Unity Projects" are old personal projects not assigned by my program. I am willing to show more recent private personal project code on a case-by-case basis.
 
 Check out the "C# Projects" section of this repo and [Raspberry Pi IR Remote](https://github.com/Cybotive/RaspPi-POST-IrRemote) for my more recent work. Additionally you're more than welcome to browse my homepage to check out my other public work.
 
